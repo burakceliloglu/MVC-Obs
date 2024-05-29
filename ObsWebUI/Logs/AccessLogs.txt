@@ -1,0 +1,7 @@
+Time: 29.05.2024 16:43:44 Ip: localhost:5235Method: GETRequest Url: /  
+Form Data: 
+Time: 29.05.2024 16:43:44 Ip: localhost:5235Method: GETRequest Url: /Auth/Login  
+Form Data: 
+Time: 29.05.2024 16:44:00 Ip: localhost:5235Method: POSTRequest Url: /Auth/Login  
+Form Data: 
+ Key: email, Data: asecer Key: password, Data: 123

@@ -1,0 +1,41 @@
+﻿
+
+<h1>
+    Students Registration Operations
+</h1>
+
+<h3>
+    Student List
+</h3>
+
+<a href="/Registrations/Create">Create New</a>
+
+@model List<Student>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Department</th>
+        <th>About</th>
+    </tr>
+    @{
+        foreach (var student in Model)
+        {
+            <tr>
+                <td>@(student.Id)</td>
+                <td>@student.FirstName</td>
+                <td>@student.LastName</td>
+                <td>@student.Department</td>
+                <td>
+                    <a href="/Registrations/About?id=@(student.Id)">About Me</a> &nbsp;
+                    <a href="/Registrations/Edit?id=@(student.Id)">Edit</a>&nbsp;
+                    <a href="/Registrations/Delete?id=@(student.Id)">Delete</a>
+                </td>
+            </tr>
+   
+        }
+    }
+   
+</table>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kTLTvsmVEiEbEA4JBOxj0m1IQTt/IH6+/z5PKw0vnsLS0QBPJnCfD9ybKqvoVe8tgi217hC9U89LrViefixbYA==",
+  "success": true,
+  "projectFilePath": "/Users/burak/Desktop/MvcYtu/Caching/Caching.csproj",
+  "expectedPackageFiles": [
+    "/Users/burak/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/burak/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/burak/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/Users/burak/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/burak/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/burak/.nuget/packages/stackexchange.redis/2.7.33/stackexchange.redis.2.7.33.nupkg.sha512",
+    "/Users/burak/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

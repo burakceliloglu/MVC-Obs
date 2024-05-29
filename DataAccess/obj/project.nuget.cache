@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IWjOpHYWIx8W2r6aWENKDijnByEL10y0Oz/imRKWOrH/KW/o4hUiv0Bzi5VfCXEvatIJ6M2F3GeR4rre3X0VTg==",
+  "success": false,
+  "projectFilePath": "/Users/burak/Desktop/MvcYtu/DataAccess/DataAccess.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    }
+  ]
+}
